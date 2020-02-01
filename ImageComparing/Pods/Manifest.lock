@@ -1,0 +1,16 @@
+PODS:
+  - CocoaImageHashing (1.7.0)
+
+DEPENDENCIES:
+  - CocoaImageHashing
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CocoaImageHashing
+
+SPEC CHECKSUMS:
+  CocoaImageHashing: 2c8efd6dd60f9030cd54086b34ffc48e927821c3
+
+PODFILE CHECKSUM: 2eb21e81f6fb5b5f74c98b8b2f1b55a60e3a7d37
+
+COCOAPODS: 1.7.5
